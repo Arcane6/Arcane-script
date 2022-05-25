@@ -1,2 +1,2 @@
 # SCRIPT DE EMULAÇÃO DO WHATSAPP WEB
-TESTE DE CRIAÇÃO DE API DO WHATSAPP 
+Criando uma API para envio de mensagens via middleware
