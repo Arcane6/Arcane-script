@@ -87,7 +87,7 @@ class Sender
             
         }
         //ATRIBUTOS DE INICIALIZAÇÃO SESSÃO
-  create('campanhas-club',status)
+  create('Nome_sessão',status)
   .then((client) => start(client))
   .catch((erro) => {
     console.log(erro);
